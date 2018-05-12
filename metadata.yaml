@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26596
     wikipedia: http://en.wikipedia.org/wiki/L._L._Langstroth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24583#Langstroth-on-the-Hive-and-the-Honey-BeeA-Bee-Keeper-s-Manual
 gutenberg_bookshelf: Zoology
 gutenberg_issued: '2008-02-11'
 gutenberg_type: Text
