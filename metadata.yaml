@@ -1,0 +1,33 @@
+_repo: Langstroth-on-the-Hive-and-the-Honey-BeeA-Bee-Keeper-s-Manual_24583
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Langstroth, L. L. (Lorenzo Lorraine)
+    birthdate: 1810
+    deathdate: 1895
+    gutenberg_agent_id: '26596'
+    url: http://www.gutenberg.org/2009/agents/26596
+    wikipedia: http://en.wikipedia.org/wiki/L._L._Langstroth
+description: ''
+gutenberg_bookshelf: Zoology
+gutenberg_issued: '2008-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24583'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Honeybee -- Diseases'
+- !lcsh 'Bees'
+- !lcsh 'Honey'
+- !lcsh 'Bee culture'
+- !lcsh 'Honeybee'
+- !lcc 'LT'
+title: 'Langstroth on the Hive and the Honey-Bee: A Bee Keeper''s Manual'
+url: http://www.gutenberg.org/ebooks/24583
